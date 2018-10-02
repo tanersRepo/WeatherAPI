@@ -5,7 +5,6 @@ using System.Net;
 using Newtonsoft.Json;
 
 // FYI: The average for the first date may not be completely accurate because it could have just 1 or 2 values left in it, ex. the night time values at 18:00 and 21:00
-// Also could be calculated by taking the max and the min
 
 namespace WeatherConsole
 {
